@@ -5,14 +5,14 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.2",
-		"automattic/jetpack-admin-ui": "@dev",
-		"automattic/jetpack-assets": "@dev",
-		"automattic/jetpack-status": "@dev"
+		"automattic/jetpack-admin-ui": "^0.5.11",
+		"automattic/jetpack-assets": "^4.3.13",
+		"automattic/jetpack-status": "^6.1.1"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/jetpack-changelogger": "@dev",
-		"automattic/phpunit-select-config": "@dev"
+		"automattic/jetpack-changelogger": "^6.0.10-alpha",
+		"automattic/phpunit-select-config": "^1.0.3"
 	},
 	"autoload": {
 		"classmap": [
@@ -35,15 +35,6 @@
 		],
 		"typecheck": "pnpm run typecheck"
 	},
-	"repositories": [
-		{
-			"type": "path",
-			"url": "../../packages/*",
-			"options": {
-				"monorepo": true
-			}
-		}
-	],
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
