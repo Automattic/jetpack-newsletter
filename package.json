@@ -33,7 +33,7 @@
 	],
 	"dependencies": {
 		"@automattic/jetpack-api": "^1.0.14",
-		"@automattic/jetpack-components": "^1.4.6-alpha",
+		"@automattic/jetpack-components": "^1.4.5",
 		"@automattic/jetpack-shared-extension-utils": "^1.4.5",
 		"@wordpress/components": "30.9.0",
 		"@wordpress/dataviews": "11.0.0",
