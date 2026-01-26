@@ -36,7 +36,7 @@
 		"@automattic/jetpack-components": "^1.4.8",
 		"@automattic/jetpack-shared-extension-utils": "^1.4.7",
 		"@wordpress/components": "32.0.0",
-		"@wordpress/dataviews": "11.0.0",
+		"@wordpress/dataviews": "11.2.0",
 		"@wordpress/element": "6.38.0",
 		"@wordpress/i18n": "6.11.0",
 		"@wordpress/notices": "5.38.0",
