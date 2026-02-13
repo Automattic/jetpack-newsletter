@@ -45,7 +45,7 @@
 		"debug": "4.4.3"
 	},
 	"devDependencies": {
-		"@automattic/babel-plugin-replace-textdomain": "^1.0.54-alpha",
+		"@automattic/babel-plugin-replace-textdomain": "^1.0.54",
 		"@automattic/jetpack-webpack-config": "workspace:*",
 		"@babel/core": "7.29.0",
 		"@babel/runtime": "7.28.6",
