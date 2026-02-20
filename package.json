@@ -1,6 +1,6 @@
 {
 	"name": "@automattic/jetpack-newsletter",
-	"version": "0.4.1-alpha",
+	"version": "0.5.0-alpha",
 	"private": true,
 	"description": "Jetpack Newsletter functionality",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/packages/newsletter/#readme",
@@ -32,6 +32,7 @@
 		"extends @wordpress/browserslist-config"
 	],
 	"dependencies": {
+		"@automattic/jetpack-analytics": "^1.0.8",
 		"@automattic/jetpack-api": "^1.0.17",
 		"@automattic/jetpack-components": "^1.4.14",
 		"@automattic/jetpack-shared-extension-utils": "^1.5.0-alpha",
