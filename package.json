@@ -1,6 +1,6 @@
 {
 	"name": "@automattic/jetpack-newsletter",
-	"version": "0.5.1-alpha",
+	"version": "0.5.1",
 	"private": true,
 	"description": "Jetpack Newsletter functionality",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/packages/newsletter/#readme",
@@ -33,10 +33,10 @@
 	],
 	"dependencies": {
 		"@automattic/jetpack-analytics": "^1.0.8",
-		"@automattic/jetpack-api": "^1.0.18-alpha",
-		"@automattic/jetpack-components": "^1.4.16-alpha",
-		"@automattic/jetpack-script-data": "^0.6.0-alpha",
-		"@automattic/jetpack-shared-extension-utils": "^1.5.1-alpha",
+		"@automattic/jetpack-api": "^1.0.18",
+		"@automattic/jetpack-components": "^1.4.16",
+		"@automattic/jetpack-script-data": "^0.6.0",
+		"@automattic/jetpack-shared-extension-utils": "^1.5.1",
 		"@wordpress/api-fetch": "7.40.0",
 		"@wordpress/components": "32.2.0",
 		"@wordpress/dataviews": "11.3.0",
