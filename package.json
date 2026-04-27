@@ -1,6 +1,6 @@
 {
 	"name": "@automattic/jetpack-newsletter",
-	"version": "0.8.5",
+	"version": "0.8.6-alpha",
 	"private": true,
 	"description": "Jetpack Newsletter functionality",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/packages/newsletter/#readme",
@@ -32,13 +32,13 @@
 		"extends @wordpress/browserslist-config"
 	],
 	"dependencies": {
-		"@automattic/jetpack-analytics": "^1.0.10",
-		"@automattic/jetpack-api": "^1.0.23",
-		"@automattic/jetpack-base-styles": "^1.1.0",
-		"@automattic/jetpack-components": "^1.9.0",
-		"@automattic/jetpack-connection": "^1.4.47",
-		"@automattic/jetpack-script-data": "^0.6.2",
-		"@automattic/jetpack-shared-extension-utils": "^1.5.11",
+		"@automattic/jetpack-analytics": "^1.0.11-alpha",
+		"@automattic/jetpack-api": "^1.0.24-alpha",
+		"@automattic/jetpack-base-styles": "^1.1.1-alpha",
+		"@automattic/jetpack-components": "^1.9.1-alpha",
+		"@automattic/jetpack-connection": "^1.4.48-alpha",
+		"@automattic/jetpack-script-data": "^0.6.3-alpha",
+		"@automattic/jetpack-shared-extension-utils": "^1.5.12-alpha",
 		"@wordpress/api-fetch": "7.44.0",
 		"@wordpress/components": "32.6.0",
 		"@wordpress/dataviews": "14.1.0",
@@ -51,7 +51,7 @@
 		"debug": "4.4.3"
 	},
 	"devDependencies": {
-		"@automattic/babel-plugin-replace-textdomain": "^1.0.56",
+		"@automattic/babel-plugin-replace-textdomain": "^1.0.57-alpha",
 		"@automattic/jetpack-webpack-config": "workspace:*",
 		"@babel/core": "7.29.0",
 		"@babel/runtime": "7.29.2",
